@@ -1,9 +1,9 @@
-﻿using System;
+﻿using Couchbase;
+using Couchbase.Configuration.Client;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.ServiceProcess;
-using Couchbase;
-using Couchbase.Configuration.Client;
 
 namespace MyWindowsService
 {

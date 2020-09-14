@@ -45,9 +45,24 @@
       <HintPath>..\packages\CouchbaseNetClient.2.2.2\lib\net45\Couchbase.NetClient.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Momentum.Pm.PortalApi.Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Momentum.Pm.PortalApi.5.8.780\lib\net45\Momentum.Pm.PortalApi.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Momentum.Pm.PortalApi.Client.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Momentum.Pm.PortalApi.5.8.780\lib\net45\Momentum.Pm.PortalApi.Client.Interfaces.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
+    </Reference>
+    <Reference Include="ServiceStack.Common, Version=3.9.58.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Common.3.9.58\lib\net35\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces, Version=3.9.58.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Common.3.9.58\lib\net35\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text, Version=3.9.58.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ServiceStack.Text.3.9.58\lib\net35\ServiceStack.Text.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
